@@ -1,0 +1,33 @@
+body {
+  background-color: #cfe0e8;
+  margin: 1%;
+}
+.weather-container {
+  margin-top: 1%;
+  background: #8d9db6;
+  text-align: center;
+  border: solid black 1.5px;
+}
+.weather {
+  font-size: 120%;
+  margin: 0;
+  font-weight: bold;
+}
+.temp {
+  font-size: 120%;
+  margin: 0;
+  font-weight: bold;
+}
+h1 {
+  font-weight: bold;
+  text-align: center;
+  background-color: #667292;
+  width: 100%;
+}
+.carousel-item img {
+  width: 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: #808080;
+  max-height: 85vh;
+}
